@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**romelgutierrez/romelgutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//**romelgutierrez/romelgutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 WELCOME TO MY REPOSITORY
 
